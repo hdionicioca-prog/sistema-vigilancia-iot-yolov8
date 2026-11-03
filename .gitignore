@@ -1,0 +1,11 @@
+# Entornos virtuales
+venv/
+.env/
+__pycache__/
+
+# Modelos pesados de YOLO (se descargan solos al correr el código)
+*.pt
+
+# Archivos temporales e imágenes de prueba locales
+*.jpg
+*.png
